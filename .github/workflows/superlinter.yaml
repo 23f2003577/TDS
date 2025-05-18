@@ -7,7 +7,7 @@ jobs:
     name: Lint code base
     runs-on: ubuntu-latest
     steps: 
-      - name: 23f2003577@iitm.ds.study.ac.in
+      - name: 23f2003577@ds.study.iitm.ac.in
         run: echo "Hello, World!"
       
       - name: Checkout code 
